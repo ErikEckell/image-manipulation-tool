@@ -1,0 +1,6 @@
+from Mmicompositions.MenuMicompositions import MenuItemComp
+from Mmicompositions.mi_join_bottom import MIJoin_bottom
+from Mmicompositions.mi_join_right import MIJoin_right
+from Mmicompositions.mi_watermark import MIWatermark
+from Mmicompositions.mi_fusion import MIfusion
+from Mmicompositions.mi_center_img import MICenter
