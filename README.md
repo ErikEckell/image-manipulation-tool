@@ -43,7 +43,7 @@ Permite trabajar con imágenes digitales aplicando **filtros, composiciones y di
 Se requiere Python 3 y el módulo **Pillow** (`PIL`).  
 
 ```bash
-git clone <https://github.com/ErikEckell/image-manipulation-tool>
+git clone https://github.com/ErikEckell/image-manipulation-tool
 cd image-processor-cli
 pip install Pillow
 python main.py
@@ -101,7 +101,7 @@ It allows working with digital images by applying **filters, compositions, and d
 Requires Python 3 and **Pillow** (`PIL`).  
 
 ```bash
-git clone <https://github.com/ErikEckell/image-manipulation-tool>
+git clone https://github.com/ErikEckell/image-manipulation-tool
 cd image-processor-cli
 pip install Pillow
 python main.py
